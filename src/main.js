@@ -7,8 +7,8 @@ import "./plugin/aMap";
 // 全局组件
 import "./components/back";
 // ElementUI
-import ElementUI from 'element-ui';
-import 'element-ui/lib/theme-chalk/index.css';
+import ElementUI from "element-ui";
+import "element-ui/lib/theme-chalk/index.css";
 Vue.use(ElementUI);
 
 Vue.config.productionTip = false;
